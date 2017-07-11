@@ -16,7 +16,11 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/dev
     username: root
+<<<<<<< HEAD
     password: wawzw123
+=======
+    password: root
+>>>>>>> 06e012cbcb98dd29f6d2737768d4ab541fa3b934
     initialize: false
 security:
   oauth2:
